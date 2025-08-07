@@ -138,5 +138,3 @@ airflow scheduler &
 > Built and deployed an end-to-end data pipeline using Python, AWS Glue, MySQL, S3, Airflow, and Snowflake on EC2. Automated ingestion, transformation, and loading of daily sales data with data validation, deduplication, and quality checks.
 
 ---
-
-You can now start uploading sample data into `s3_data/raw_sales_data/`, connect your EC2 Airflow setup, and begin testing. Let me know if you want automation scripts to set up Airflow or Docker Compose.
